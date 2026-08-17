@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sampath-star&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sampath-star&theme=radical" width="49%" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sampath-star&theme=radical" />
 </p>
