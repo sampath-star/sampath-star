@@ -14,6 +14,6 @@
 </p>
 
 <h3 align="left">📊 My GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sampath-star&show_icons=true&theme=radical" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sampath-star&show_icons=true&theme=radical&cache_seconds=1800" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampath-star&theme=radical" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampath-star&theme=radical&cache_seconds=1800" /></p>
